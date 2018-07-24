@@ -1,0 +1,2 @@
+# public_blog
+简单博客实现前后端使用auth和forms还有ajax
